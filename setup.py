@@ -5,13 +5,13 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="splicejsonmultipleroots-thestrugglingdeveloper",
-    version="0.1.0",
+    version="0.1.1",
     author="TheStrugglingDeveloper",
     author_email="github@thestrugglingdeveloper.com",
     description="A small package to extract an array of json root elements",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/thestrugglingdeveloper/splicejsonmultipleroots_pkg",
+    url="https://github.com/thestrugglingdeveloper/splicejsonmultipleroots",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
