@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="splicejsonmultipleroots-thestrugglingdeveloper",
-    version="0.0.1",
+    version="0.1.0",
     author="TheStrugglingDeveloper",
     author_email="github@thestrugglingdeveloper.com",
     description="A small package to extract an array of json root elements",
